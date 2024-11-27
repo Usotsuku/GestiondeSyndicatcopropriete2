@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Gestion de Syndicat copropriete</string>
+    <string name="description">Logo apps</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to_MySyndicat">Welcome to MySyndicat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="login">Login</string>
+    <string name="annonces">Annonces</string>
+    <string name="planning">Planning</string>
+    <string name="messagerie">Messagerie</string>
+    <string name="factures">Factures</string>
+    <string name="historique">historique</string>
+    <string name="proximit">proximité</string>
+    <string name="name">Name</string>
+    <string name="user_email">User Email</string>
+    <string name="user_name">User Name</string>
+    <string name="logout">logout</string>
+    <string name="enter_message">Enter message</string>
+    <string name="welcometo">Welcome To MySyndicat</string>
+    <string name="mr">Mr</string>
+    <string name="home">Home</string>
+    <string name="contact">Contact</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="eventName">Name</string>
+</resources>
